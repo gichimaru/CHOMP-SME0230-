@@ -2,9 +2,9 @@
 
 ## Sobre o Projeto
 
-[cite_start]Este repositório contém o trabalho final da disciplina **SME0230 - Introdução à Programação de Computadores**, ministrada no primeiro semestre de 2022 pelas professoras Marina Andretta e Franklina Toledo. [cite: 1, 2, 3]
+Este repositório contém o trabalho final da disciplina **SME0230 - Introdução à Programação de Computadores**, ministrada no primeiro semestre de 2022 pelas professoras Marina Andretta e Franklina Toledo. [cite: 1, 2, 3]
 
-[cite_start]O objetivo do projeto foi desenvolver o jogo "Chomp" em Linguagem C. [cite: 6, 27]
+O objetivo do projeto foi desenvolver o jogo "Chomp" em Linguagem C. [cite: 6, 27]
 
 ### O Jogo Chomp
 
