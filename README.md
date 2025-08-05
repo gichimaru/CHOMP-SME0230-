@@ -33,4 +33,5 @@ Conforme as diretrizes do trabalho, todo o código foi implementado em um único
 ## Autores
 
 * Luís Roberto Piva - N° USP: 13687727
-* [Nome do Integrante 2] - N° USP: [Número USP do Integrante 2]
+* Nina Cunha Pinheiro - N° USP: 13686500
+* Larisse Ferreira Alzeri - N° USP: 12703080
