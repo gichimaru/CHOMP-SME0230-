@@ -35,3 +35,7 @@ Conforme as diretrizes do trabalho, todo o código foi implementado em um único
 * Luís Roberto Piva - N° USP: 13687727
 * Nina Cunha Pinheiro - N° USP: 13686500
 * Larisse Ferreira Alzeri - N° USP: 12703080
+
+## Licença
+
+Este projeto é um trabalho acadêmico e está disponível para fins educacionais. Sinta-se à vontade para explorar o código e os conceitos implementados.
